@@ -2,13 +2,13 @@
 <project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.walkermanx</groupId>
+  <groupId>com.walkermanx.android.lib</groupId>
   <artifactId>abstractlistadapters</artifactId>
   <version>0.0.1-beta</version>
   <packaging>aar</packaging>
   <name>Library-abstractlistadapters</name>
-  <description>"this is my first github mvn repo £¡"</description>
-  <url>https://github.com/walkermanX/mvn-repo/tree/master/Android/Lib/abstractlistadapters</url>
+  <description>"this is my first android aar mvn repo in github ï¿½ï¿½"</description>
+  <url>https://github.com/walkermanX/abstractlistadapters</url>
   <licenses>
     <license>
       <name>The Apache Software License, Version 2.0</name>
@@ -23,15 +23,15 @@
     </developer>
   </developers>
   <scm>
-    <connection>scm:git@github.com:walkermanX/mvn-repo.git</connection>
-    <developerConnection>scm:git@github.com:walkermanX/mvn-repo.git</developerConnection>
-    <url>https://github.com/walkermanX/mvn-repo/tree/master/Android/Lib/abstractlistadapters</url>
+    <connection>scm:git@github.com:walkermanX/abstractlistadapters.git</connection>
+    <developerConnection>scm:git@github.com:walkermanX/abstractlistadapters.git</developerConnection>
+    <url>https://github.com/walkermanX/abstractlistadapters</url>
   </scm>
   <dependencies>
     <dependency>
       <groupId>com.android.support</groupId>
-      <artifactId>appcompat-v7</artifactId>
-      <version>26.1.0</version>
+      <artifactId>recyclerview-v7</artifactId>
+      <version>26.0.0</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
