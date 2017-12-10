@@ -3,11 +3,9 @@
   <groupId>com.walkermanx.android.lib</groupId>
   <artifactId>abstractlistadapters</artifactId>
   <versioning>
-    <release>0.0.1-snapshot</release>
     <versions>
-      <version>0.0.1-beta</version>
-      <version>0.0.1-snapshot</version>
+      <version>0.0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20171209132828</lastUpdated>
+    <lastUpdated>20171209133848</lastUpdated>
   </versioning>
 </metadata>
